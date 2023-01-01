@@ -1,51 +1,51 @@
 # Selenium-Using-Python
 
-###Introduction to WebDriver and Architecture
+### Introduction to WebDriver and Architecture
 
-###Environment Setup & WebDriver Configuration
+### Environment Setup & WebDriver Configuration
 
-###How to Create Automated test case in WebDriver?
+### How to Create Automated test case in WebDriver?
 
-###Execute test case on multiple browsers.
+### Execute test case on multiple browsers.
 
-###Basic Locators – Name, ID, LinkText, PartialLinkText
+### Basic Locators – Name, ID, LinkText, PartialLinkText
 
-###Advanced Locators – CSS, XPath
+### Advanced Locators – CSS, XPath
 
-###Working with Selectors Hub
+### Working with Selectors Hub
 
-###WebDriver Commands
+### WebDriver Commands
 
-###Get Commands
+### Get Commands
 
-###Conditional Commands
+### Conditional Commands
 
-###Navigation Commands
+### Navigation Commands
 
-###Waits – Implicit and Explicit Waits
+### Waits – Implicit and Explicit Waits
 
-###Browser Commands
+### Browser Commands
 
-###Working with Web Elements
+### Working with Web Elements
 
-###Input box, Checkbox & Radio buttons
+### Input box, Checkbox & Radio buttons
 
-###Dropdowns – Select Class, JQuery & Boostrap Drop Downs
+### Dropdowns – Select Class, JQuery & Boostrap Drop Downs
 
-###Links & Broken Links
+### Links & Broken Links
 
-###Alerts/Popups
+### Alerts/Popups
 
-###Iframes
+### Iframes
 
-###Working with Browser Windows
+### Working with Browser Windows
 
-###How to Handle Date Picker
+### How to Handle Date Picker
 
-###How to Handle Web Tables
+### How to Handle Web Tables
 
-###How to Handle Mouse Actions
+### How to Handle Mouse Actions
 
-###How to Handle Keyboard Actions
+### How to Handle Keyboard Actions
 
-###How to Handle Upload & Download Files
+### How to Handle Upload & Download Files
